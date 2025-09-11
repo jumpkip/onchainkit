@@ -1,5 +1,39 @@
 # Changelog
 
+## 0.38.19
+
+### Patch Changes
+
+- **feat:** Add useSwapToken mini app util - Thanks [@dgca](https://github.com/dgca)! [#2444](https://github.com/coinbase/onchainkit/pull/2444)
+
+- **feat:** Add `useSendToken` MiniKit hook - Thanks [@dgca](https://github.com/dgca)! [#2445](https://github.com/coinbase/onchainkit/pull/2445)
+
+## 0.38.18
+
+### Patch Changes
+
+- **feat:** Add Base Account connector support
+- **chore:**: Update @farcaster/frame-sdk dependency
+
+## 0.38.17
+
+### Patch Changes
+
+- **feat:** Accept farcasterMiniApp connector for autoconnect functionality
+
+## 0.38.16
+
+### Patch Changes
+
+- **feat:** Update useIsInMiniApp to check for sdk.context
+
+## 0.38.15
+
+### Patch Changes
+
+- **chore:** Rename alpha version to canary. By @dgca #2404
+- **chore:** Add client FID and OnchainKit/MiniKit differentiation to analytics. By @dgca #2391
+
 ## 0.38.14
 
 ### Patch Changes
